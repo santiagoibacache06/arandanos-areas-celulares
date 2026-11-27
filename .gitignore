@@ -1,0 +1,17 @@
+
+# Datos experimentales privados
+datos_privados/
+resultados_locales/
+*.xlsx
+*.xls
+
+# Archivos temporales de Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+.ipynb_checkpoints/
+
+# Archivos del sistema
+.DS_Store
+Thumbs.db
